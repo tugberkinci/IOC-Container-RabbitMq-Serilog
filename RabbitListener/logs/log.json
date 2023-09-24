@@ -1,0 +1,4 @@
+{"ServiceName":"RabbitListener","Url":"https://localhost:7110/swagger/index.html","StatusCode":200}
+{"ServiceName":"RabbitListener","Url":"https://www.youtube.com/","StatusCode":200}
+{"ServiceName":"RabbitListener","Url":"https://rti.com.tr/","StatusCode":405}
+{"ServiceName":"RabbitListener","Url":"https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/managing-users.html","StatusCode":403}

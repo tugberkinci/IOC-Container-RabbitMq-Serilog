@@ -1,0 +1,18 @@
+{
+  "version": "6.0.0-*",
+  "buildOptions": {
+    "debugType": "portable",
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "Microsoft.Extensions.DependencyInjection": "7.0.0",
+    "Microsoft.Extensions.Configuration": "7.0.0",
+    "Microsoft.Extensions.Configuration.Json": "7.0.0",
+    "Microsoft.Extensions.Options.ConfigurationExtensions": "7.0.0",
+    "Microsoft.Extensions.Logging": "7.0.0",
+    "Serilog": "3.0.1",
+    "Serilog.Sinks.File": "5.0.0",
+    "Serilog.Extensions.Logging": "7.0.0"
+
+  }
+}

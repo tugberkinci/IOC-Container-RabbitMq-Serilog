@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RabbitListener": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
